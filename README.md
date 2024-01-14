@@ -1,1 +1,6 @@
-"# BharatIntern_03" 
+# BharatIntern_03
+
+## Homepage of Netflix:
+A simple website having similar homepage
+that of Netflix using using HTML and
+CSS.
